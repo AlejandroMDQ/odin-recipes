@@ -1,0 +1,35 @@
+/* General Styles */
+
+#mainHeading {
+    color: rgb(112, 49, 7);
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 45px;
+}
+
+.sub-heading {
+    color: rgb(19, 58, 4);
+    font-family: 'Helvetica', sans-serif;
+    font-size: 28px;
+}
+
+.sub-h3 {
+    color: rgb(167, 19, 0);
+    font-size: 20px;
+}
+
+#mainPic {
+    width: 500px;
+    height: auto;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-family: 'Helvetica', sans-serif;
+    font-size: 18px;
+}
+
+ul,
+ol {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
